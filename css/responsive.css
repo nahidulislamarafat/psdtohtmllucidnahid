@@ -1,0 +1,138 @@
+
+
+@media (max-width: 1199px){
+	.banner-content p {
+    margin-bottom: 26px;
+}
+.banner-content h1 {
+    
+    font-size: 45px;
+}
+.feature p {
+padding-bottom: 40px;
+}
+.btn-custom,.btn-outline {
+padding: 9px 18px;
+}
+
+.download-section h3 {
+    font-size: 28px;
+    }
+}
+
+@media (max-width: 991px){
+
+.banner-content h1 {
+    font-size: 33px;
+}
+
+.banner-content p {
+    margin-bottom: 13px;
+    font-size: 16px;
+    }
+
+.btn-custom,.btn-outline {
+  
+   padding: 8px 10px;
+}
+
+.feature h2 {
+   
+    font-size: 22px;
+}
+
+.about-section ul {
+
+display: none;
+	}
+
+	.carousel-item h5 {
+    font-size: 17px;
+}
+
+.btn-custom, .btn-outline {
+    padding: 6px 5px;
+}
+.download-section h3 {
+    font-size: 21px;
+}
+}
+
+
+@media (max-width: 767px){
+
+	.banner-content {
+    text-align: center;
+    padding-bottom: 45px;
+}
+
+.feature p {
+    font-size: 14px;
+}
+
+.feature h2 {
+   
+    font-size: 16px;
+}
+
+.feature span {
+
+	width: 80px;
+height: 80px;
+line-height: 80px;
+}
+
+.about-section ul {
+
+display: block;
+	}
+
+	.about-section ul li {
+
+    margin-right: 10px;
+    display: initial;
+
+}
+
+.about-section .heading {
+
+    text-align: center;
+    }
+.about-section .heading span {
+
+    margin-left: auto;
+    text-align: center;
+
+}
+.carousel-item h5 {
+font-size: 14px;
+}
+
+.carousel-item .nav strong{
+
+	
+	font-size: 11px;
+}
+
+.info p {
+    padding: 20px 0;
+    font-size: 15px;
+}
+}
+
+@media (max-width: 1199px){
+
+	
+}
+
+@media (max-width: 1199px){
+
+	
+}
+
+@media (max-width: 287px){
+
+	.btn-custom, .btn-outline {
+    padding: 8px 5px;
+}
+}
